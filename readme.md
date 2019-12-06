@@ -37,7 +37,7 @@ The project file structure looks like this:
 
 To access the data files with javascript, you will need to be *serving* the homework directory, not just opening the HTML file in a browser. If your development environment doesn't already launch a server for you, you can start one with:
 
-    $ cd path/to/hw4
+    $ cd path/to/gap-minder-visualization
 
     # For Python 2:
     $ python -m SimpleHTTPServer
